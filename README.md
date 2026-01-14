@@ -1,5 +1,5 @@
-# <h1 align="center">Laporan Praktikum Modul Single Linked List</h1>
-<p align="center">Nama Anda</p>
+# <h1 align="center">Laporan Praktikum Modul-4 Single Linked List</h1>
+<p align="center">Vito Naryama Pramudito</p>
 
 ## Dasar Teori
 
